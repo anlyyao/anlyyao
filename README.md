@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![anlyyao](https://github-readme-stats.vercel.app/api?username=anlyyao&show_icons=true)
+<!-- 
+参考：https://github.com/anuraghazra/github-readme-stats 
+-->
+
+![anlyyao](https://github-readme-stats.vercel.app/api?username=anlyyao&show_icons=true&theme=flag-india)
