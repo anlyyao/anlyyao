@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### anlyyao: 它是一个正在努力不普通的程序员 👋
 <!--
 **anlyyao/anlyyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![anlyyao](https://github-readme-stats.vercel.app/api?username=anlyyao&show_icons=true)
