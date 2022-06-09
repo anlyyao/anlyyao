@@ -1,4 +1,4 @@
-### anlyyao: 它是一个正在努力不普通的程序员 👋
+### anlyyao: 一个正在努力不普通的程序员 👋
 <!--
 **anlyyao/anlyyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
